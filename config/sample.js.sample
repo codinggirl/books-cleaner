@@ -1,0 +1,4 @@
+module.exports = {
+    srcDir: 'D:/---整理中/',
+    tarDir: 'D:/---已整理/'
+}

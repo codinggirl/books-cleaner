@@ -1,0 +1,4 @@
+.vscode
+/config/*
+!/config/sample.js.sample
+node_modules/

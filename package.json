@@ -1,0 +1,24 @@
+{
+  "name": "books-cleaner",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinggirl/books-cleaner.git"
+  },
+  "author": "Richard Libre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codinggirl/books-cleaner/issues"
+  },
+  "homepage": "https://github.com/codinggirl/books-cleaner#readme",
+  "dependencies": {
+    "config": "^3.1.0",
+    "rd": "^2.0.1"
+  }
+}
